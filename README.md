@@ -1,5 +1,5 @@
 # habitDeveloper
-
+A IOS app to track you habbits and improve your mental health
 ## Mongo DB
 
 [Mac install guide](https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-os-x/)
